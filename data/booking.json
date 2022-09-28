@@ -1,0 +1,23 @@
+{
+    "passport": "123456789",
+    "name": "CJS ",
+    "flights": [
+        {
+            "flight class": true,
+            "origin": "KUL",
+            "destination": "VAN"
+        },
+        {
+            "flight class": false,
+            "origin": "VAN",
+            "destination": "SING"
+        },
+        {
+            "flight class": true,
+            "origin": "SING",
+            "destination": "KUL"
+        }
+    ],
+    "age": 19,
+    "booking code": "b4ef89fa-0dc4-475d-b605-09df58780ecc"
+}
